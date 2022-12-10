@@ -1,0 +1,29 @@
+.cards {
+    height: 90%;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+}
+.caja1 {
+    height: 200px;
+    background-image: url(./massage-2717431_640.jpg);
+    margin: 10px;
+    
+}
+.caja2 {
+    height: 200px;
+    background-image: url(./spa-4674346_640.jpg);
+    margin: 10px;
+}
+.caja3 {
+    height: 200px;
+    background-image: url(./woman-3708735_640.jpg);
+    margin: 10px;
+}
+button {
+    border-radius: 10px;
+    background-color: #c6ad75;
+    border: none;
+}
